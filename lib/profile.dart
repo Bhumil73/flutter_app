@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_app/dataContainer.dart';
+import 'package:flutter_app/widgets/dataContainer.dart';
 
 class profile extends StatefulWidget {
   @override
